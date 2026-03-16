@@ -7,7 +7,7 @@ The analysis evaluates key performance metrics including profit, gross profit ma
  
 Profit Analysis:
 
-Profitability is a key factor when determining the optimal location for a new distribution center. Among all countries analyzed, Germany, located in the Central region, generates the highest total profit of $86,279. This indicates strong market performance and demand within the region.
+Profitability is a key factor when determining the optimal location for a new distribution center. Among all countries analyzed, **Germany, located in the Central region, generates the highest total profit of $86,279**. This indicates strong market performance and demand within the region.
 Higher profitability suggests that Germany represents a strong revenue-generating market, making it a strategically advantageous location for expanding distribution operations.
  
 Gross Profit Margin and Profit Comparison:
