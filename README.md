@@ -19,8 +19,11 @@ Gross profit margin helps measure how efficiently revenue is converted into prof
 Among the countries analyzed:
 
 •	**Switzerland** has the highest gross profit margin at **0.29**, but generates relatively low profit **($7,234)**.
+
 •	**Austria** shows the second-highest margin at **0.27**, with moderate profit levels **($21,332)**.
+
 •	**Belgium** has a gross profit margin of **0.23** but lower total profit **($9,912)**.
+
 •	**Germany**, while having a slightly lower gross profit margin of **0.18**, generates the **highest overall profit at $86,279**.
 
 This indicates that although some countries demonstrate higher margins, Germany significantly outperforms them in total profitability, suggesting stronger overall business performance.
