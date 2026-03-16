@@ -6,13 +6,13 @@ As an Inventory Analyst on the Operations team at Amazing Mart, an analysis was 
 
 The analysis evaluates key performance metrics **(KPIs)** including **profit, gross profit margin, sales performance, order volume, and average shipping time** across three geographic regions: **North, South, and Central Europe**. The insights derived from this analysis aim to determine which country offers the most favorable combination of demand, profitability, and operational efficiency.
 
-- <a href="https://github.com/TrishalaDas23/Inventory-Analysis-Power-BI-Dashboard/blob/main/PowerBI%20Dashboard.pbix">Open the dashboard on Power BI</a>
+- <a href="https://github.com/TrishalaDas23/Data-Analysis-Power-BI-Dashboard/blob/main/1.%20PowerBI%20Dashboard.pbix">Open the dashboard on Power BI</a>
  
 ## Profit Analysis:
 
 Profitability is a key factor when determining the optimal location for a new distribution center. Among all countries analyzed, **Germany, located in the Central region, generates the highest total profit of $86,279**. This indicates strong market performance and demand within the region. 
 
-- <a href="https://github.com/TrishalaDas23/Inventory-Analysis-Power-BI-Dashboard/blob/main/Germany%20KPI.jpg">Germany Dashboard View</a>
+- <a href="https://github.com/TrishalaDas23/Data-Analysis-Power-BI-Dashboard/blob/main/3.%20Germany%20KPI.jpg">Germany Dashboard View</a>
 
 Higher profitability suggests that Germany represents a strong revenue-generating market, making it a strategically advantageous location for expanding distribution operations.
  
@@ -22,11 +22,11 @@ Gross profit margin helps measure how efficiently revenue is converted into prof
 
 Among the countries analyzed:
 
-•	**Switzerland** has the highest gross profit margin at **0.29**, but generates relatively low profit **($7,234)**. - <a href="https://github.com/TrishalaDas23/Inventory-Analysis-Power-BI-Dashboard/blob/main/Switzerland%20KPI.jpg">Switzerland Dashboard View</a>
+•	**Switzerland** has the highest gross profit margin at **0.29**, but generates relatively low profit **($7,234)**. - <a href="https://github.com/TrishalaDas23/Data-Analysis-Power-BI-Dashboard/blob/main/4.%20Switzerland%20KPI.jpg">Switzerland Dashboard View</a>
 
-•	**Austria** shows the second-highest margin at **0.27**, with moderate profit levels **($21,332)**. <a href="https://github.com/TrishalaDas23/Inventory-Analysis-Power-BI-Dashboard/blob/main/Austria%20KPI.jpg">Austria Dashboard View</a>
+•	**Austria** shows the second-highest margin at **0.27**, with moderate profit levels **($21,332)**. <a href="https://github.com/TrishalaDas23/Data-Analysis-Power-BI-Dashboard/blob/main/5.%20Austria%20KPI.jpg">Austria Dashboard View</a>
 
-•	**Belgium** has a gross profit margin of **0.23** but lower total profit **($9,912)**. <a href="https://github.com/TrishalaDas23/Inventory-Analysis-Power-BI-Dashboard/blob/main/Belgium%20KPI.jpg">Belgium Dashboard View</a>
+•	**Belgium** has a gross profit margin of **0.23** but lower total profit **($9,912)**. <a href="https://github.com/TrishalaDas23/Data-Analysis-Power-BI-Dashboard/blob/main/6.%20Belgium%20KPI.jpg">Belgium Dashboard View</a>
 
 •	**Germany**, while having a slightly lower gross profit margin of **0.18**, generates the **highest overall profit at $86,279**. <
 
@@ -36,7 +36,7 @@ This indicates that although some countries demonstrate higher margins, Germany 
 
 Sales volume is another important factor in identifying regions with strong customer demand.
 
-•	**France records the highest total sales at $609.68K**, indicating strong market demand. <a href="https://github.com/TrishalaDas23/Inventory-Analysis-Power-BI-Dashboard/blob/main/France%20KPI.jpg">France Dashboard View</a>
+•	**France records the highest total sales at $609.68K**, indicating strong market demand. <a href="https://github.com/TrishalaDas23/Data-Analysis-Power-BI-Dashboard/blob/main/7.%20France%20KPI.jpg">France Dashboard View</a>
 
 •	However, France has a **lower gross profit margin of 0.11 and total profit of $70,067**, both of which are lower than Germany. 
 
