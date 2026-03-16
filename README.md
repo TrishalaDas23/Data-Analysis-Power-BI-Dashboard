@@ -33,7 +33,9 @@ This indicates that although some countries demonstrate higher margins, Germany 
 Sales volume is another important factor in identifying regions with strong customer demand.
 
 •	**France records the highest total sales at $609.68K**, indicating strong market demand.
+
 •	However, France has a **lower gross profit margin of 0.11 and total profit of $70,067**, both of which are lower than Germany.
+
 •	**Germany records the second-highest sales at $488.68K**, while maintaining **higher profitability and a stronger gross profit margin than France**.
 
 This suggests that Germany achieves a more favorable balance between sales performance and profitability.
@@ -43,6 +45,7 @@ This suggests that Germany achieves a more favorable balance between sales perfo
 Customer demand can also be evaluated through the number of orders processed.
 
 •	**France has the highest number of orders with 7,329 transactions**.
+
 •	**Germany follows closely with 6,179 orders**.
 
 Although Germany processes slightly fewer orders than France, it generates **higher overall profit and stronger gross profit margins**, indicating more efficient revenue generation per order.
@@ -54,6 +57,7 @@ Delivery efficiency is an important operational factor when considering the loca
 The analysis shows that:
 
 •	**France has an average shipping time of 3.97 days**
+
 •	**Germany has an average shipping time of 4.01 days**
 
 The difference between the two is minimal, indicating that both countries demonstrate comparable logistics performance.
